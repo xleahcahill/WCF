@@ -1,0 +1,10 @@
+c:\users\leahc\documents\visual studio 2015\Projects\LeahCahill_AssignmentTwo_WCF\LeahCahill_AssignmentTwo_WCF\bin\Debug\LeahCahill_AssignmentTwo_WCF.exe.config
+c:\users\leahc\documents\visual studio 2015\Projects\LeahCahill_AssignmentTwo_WCF\LeahCahill_AssignmentTwo_WCF\bin\Debug\LeahCahill_AssignmentTwo_WCF.exe
+c:\users\leahc\documents\visual studio 2015\Projects\LeahCahill_AssignmentTwo_WCF\LeahCahill_AssignmentTwo_WCF\bin\Debug\LeahCahill_AssignmentTwo_WCF.pdb
+c:\users\leahc\documents\visual studio 2015\Projects\LeahCahill_AssignmentTwo_WCF\LeahCahill_AssignmentTwo_WCF\obj\Debug\LeahCahill_AssignmentTwo_WCF.csprojResolveAssemblyReference.cache
+c:\users\leahc\documents\visual studio 2015\Projects\LeahCahill_AssignmentTwo_WCF\LeahCahill_AssignmentTwo_WCF\obj\Debug\LeahCahill_AssignmentTwo_WCF.Form1.resources
+c:\users\leahc\documents\visual studio 2015\Projects\LeahCahill_AssignmentTwo_WCF\LeahCahill_AssignmentTwo_WCF\obj\Debug\LeahCahill_AssignmentTwo_WCF.Properties.Resources.resources
+c:\users\leahc\documents\visual studio 2015\Projects\LeahCahill_AssignmentTwo_WCF\LeahCahill_AssignmentTwo_WCF\obj\Debug\LeahCahill_AssignmentTwo_WCF.csproj.GenerateResource.Cache
+c:\users\leahc\documents\visual studio 2015\Projects\LeahCahill_AssignmentTwo_WCF\LeahCahill_AssignmentTwo_WCF\obj\Debug\LeahCahill_AssignmentTwo_WCF.exe
+c:\users\leahc\documents\visual studio 2015\Projects\LeahCahill_AssignmentTwo_WCF\LeahCahill_AssignmentTwo_WCF\obj\Debug\LeahCahill_AssignmentTwo_WCF.pdb
+C:\Users\leahc\Documents\Visual Studio 2015\Projects\LeahCahill_AssignmentTwo_WCF\LeahCahill_AssignmentTwo_WCF\obj\Debug\LeahCahill_AssignmentTwo_WCF.csproj.CoreCompileInputs.cache
